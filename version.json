@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minSupportedVersion": "1.0.1",
-  "mandatory": true,
-  "sequenceNumber": 2,
-  "releaseDate": "2026-10-31T20:42:00Z",
-  "releaseNotes": "Flexina Skin Changer v1.0.1: KÄ±rÄ±k gÃ¶rsel dÃ¼zeltmeleri, chroma renk paketi splash eÅŸleÅŸtirmeleri ve temizlenmiÅŸ kostÃ¼m tarama durumu.",
+  "mandatory": false,
+  "sequenceNumber": 3,
+  "releaseDate": "2026-10-31T22:53:00Z",
+  "releaseNotes": "Flexina Skin Changer v1.0.2: Gercek WAD Overlay Engine, vibrant Hextech neon tasarim, otomatik fantome indirme, bulletproof gorsel fallback sistemi.",
   "packages": {
     "installer": {
-      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.1/Flexina_skin_changer_setup.exe",
-      "sha256": "37fbfda1d8e9bffd54376ecb12f34609a87f08f7699c01533374b7cf7ae74e99"
+      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.2/Flexina_skin_changer_setup.exe",
+      "sha256": "38d8e84fd2b78d60806c879c027c90f0bcce4adcb52390fd8656dbedba40df7e"
     }
   }
 }
