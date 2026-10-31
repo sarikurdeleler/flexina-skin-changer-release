@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0",
-  "minSupportedVersion": "1.0.0",
-  "mandatory": false,
-  "sequenceNumber": 1,
-  "releaseDate": "2026-10-31T20:25:00Z",
-  "releaseNotes": "Flexina Skin Changer v1.0.0 (Hextech Edition). Tam ÅŸampiyon detay galerisi, bÃ¼yÃ¼k gÃ¶rsel kostÃ¼m vitrini, saÄŸ Ã¼st mod tepsisi ve tek tÄ±kla oyun iÃ§i enjeksiyon Ã¶zellikleri hazÄ±r.",
+  "version": "1.0.1",
+  "minSupportedVersion": "1.0.1",
+  "mandatory": true,
+  "sequenceNumber": 2,
+  "releaseDate": "2026-10-31T20:30:00Z",
+  "releaseNotes": "Flexina Skin Changer v1.0.1 Hextech Sürümü: Yeni şampiyon detay galerisi, sağ üst Aktif Modlar (Staged Tray) tepsisi ve tek tıkla oyuna aktarma.",
   "packages": {
     "installer": {
-      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.0/Flexina_skin_changer_setup.exe",
-      "sha256": "5ea09196b2aebb275a53cda8d5f58ac8d4d5f5e2516d45b4d943351e24fe634d"
+      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.1/Flexina_skin_changer_setup.exe",
+      "sha256": "904f6b8e56ac8f3b5cdb60cec57619766955b9eaedd33dae8f533ca9a678b950"
     }
   }
 }
