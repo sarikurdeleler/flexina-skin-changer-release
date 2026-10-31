@@ -1,7 +1,6 @@
 {
   "version": "1.0.2",
-  "minSupportedVersion": "1.0.1",
-  "mandatory": false,
+  "mandatory": true,
   "sequenceNumber": 3,
   "releaseDate": "2026-10-31T22:53:00Z",
   "releaseNotes": "Flexina Skin Changer v1.0.2: Gercek WAD Overlay Engine, vibrant Hextech neon tasarim, otomatik fantome indirme, bulletproof gorsel fallback sistemi.",
