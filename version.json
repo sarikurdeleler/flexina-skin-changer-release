@@ -9,10 +9,6 @@
     "installer": {
       "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.0/Flexina_skin_changer_setup.exe",
       "sha256": "3fdd825b701574e98a87fcbd2c4d909cd0224e6cf949a1b5ac73775d17eb7584"
-    },
-    "portable": {
-      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.0/Flexina_skin_changer_portable.exe",
-      "sha256": "66a3eb5882a377403ab1f7b414c55915dba4d1dfccea84430e0afe8f13bde228"
     }
   }
 }
