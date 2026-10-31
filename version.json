@@ -3,17 +3,16 @@
   "minSupportedVersion": "1.0.0",
   "mandatory": false,
   "sequenceNumber": 1,
-  "releaseDate": "2026-10-31T19:40:00Z",
-  "releaseNotes": "Flexina Skin Changer â€” Hextech SÃ¼rÃ¼mÃ¼ ilk kararlÄ± yayÄ±n. Åampiyon kataloÄŸu, bÃ¼yÃ¼k gÃ¶rsel kostÃ¼m havuzu ve tek tÄ±kla oyun iÃ§i enjeksiyon Ã¶zellikleri eklendi.",
+  "releaseDate": "2026-10-31T20:10:00Z",
+  "releaseNotes": "Flexina Skin Changer v1.0.0 (Hextech Edition) ilk kararlÄ± yayÄ±n. Åampiyon kataloÄŸu, bÃ¼yÃ¼k gÃ¶rsel kostÃ¼m havuzu, saÄŸ Ã¼st mod tepsisi ve oyun iÃ§i enjeksiyon Ã¶zellikleri eklendi.",
   "packages": {
     "installer": {
       "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.0/Flexina_skin_changer_setup.exe",
-      "sha256": "b8a16324815b1ca8af66e7261c9c19db47a5f8f1a7df0d03f2fb45c69abb54d9"
+      "sha256": "3fdd825b701574e98a87fcbd2c4d909cd0224e6cf949a1b5ac73775d17eb7584"
     },
     "portable": {
       "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.0/Flexina_skin_changer_portable.exe",
-      "sha256": "c8a4bbd690a7863cb967812f12ba72db2f2eb6e0be09db951079d2b2eb995f55"
+      "sha256": "66a3eb5882a377403ab1f7b414c55915dba4d1dfccea84430e0afe8f13bde228"
     }
   }
 }
-
