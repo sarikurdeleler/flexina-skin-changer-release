@@ -1,13 +1,13 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "mandatory": true,
-  "sequenceNumber": 5,
-  "releaseDate": "2026-10-31T23:05:00Z",
-  "releaseNotes": "Flexina v1.0.4: EACCES guncelleme kurulum hatasi duzeltildi, guncelleme 1 saniye sonra kontrol edilir.",
+  "sequenceNumber": 6,
+  "releaseDate": "2026-10-31T23:10:00Z",
+  "releaseNotes": "Flexina v1.0.5: EACCES kurulum hatasi kesin olarak duzeltildi - shell.openPath ile Windows UAC bypass.",
   "packages": {
     "installer": {
-      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.4/Flexina_skin_changer_setup.exe",
-      "sha256": "f1c2189ae249c10bc8d687f4808d53d65a641573293586be2365dd64c785a968"
+      "url": "https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.5/Flexina_skin_changer_setup.exe",
+      "sha256": "6955c20e95e812b2af5a1ad14883c2a97355153c294eaf74c3b47c423bf581c6"
     }
   }
 }
