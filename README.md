@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Flexina Skin Changer](avatar.gif)
+![Flexina Skin Changer](https://raw.githubusercontent.com/sarikurdeleler/flexina-skin-changer-release/assets/avatar.gif)
 
 ### League of Legends Yeni Nesil Kostüm Yöneticisi & Mod Enjektörü
 *Geliştirici:* **sarikurdeleler** &nbsp;|&nbsp; *Discord:* **@sarikurdeleler**
