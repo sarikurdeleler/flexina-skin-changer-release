@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-[![Version](https://img.shields.io/badge/Release-v1.0.89-gold.svg?style=for-the-badge&logo=electron)](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases)
+[![Version](https://img.shields.io/badge/Release-v1.0.90-gold.svg?style=for-the-badge&logo=electron)](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-black.svg?style=for-the-badge&logo=windows)](https://github.com/sarikurdeleler/flexina-skin-changer-release)
 [![Design](https://img.shields.io/badge/Design-God%20King%20Liquid-darkred.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/sarikurdeleler/flexina-skin-changer)
 [![Vanguard Safe](https://img.shields.io/badge/Anti--Cheat-Vanguard%20100%25%20Compliant-emerald.svg?style=for-the-badge&logo=shield)](https://github.com/sarikurdeleler/flexina-skin-changer)
