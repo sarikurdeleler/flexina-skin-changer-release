@@ -1,52 +1,46 @@
-# ⚡ Flexina Skin Changer — Hextech Edition
+# ⚔️ FLEXINA — GOD KING LIQUID EDITION
+### Next-Generation League of Legends Skin & Experience Architecture
 
 <div align="center">
 
-![Flexina Skin Changer](https://raw.githubusercontent.com/sarikurdeleler/flexina-skin-changer-release/assets/avatar.gif)
+<img src="https://raw.githubusercontent.com/sarikurdeleler/flexina-skin-changer/main/src/renderer/src/assets/skin_changer_avatar.jpg" width="180" height="180" style="border-radius: 24px; border: 2px solid #F59E0B;" alt="Flexina God King Avatar" />
 
-### League of Legends Yeni Nesil Kostüm Yöneticisi & Mod Enjektörü
-*Geliştirici:* **sarikurdeleler** &nbsp;|&nbsp; *Discord:* **@sarikurdeleler**
+<br/><br/>
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20x64-00d2f7.svg?style=for-the-badge&logo=windows)](#)
-[![Version](https://img.shields.io/badge/S%C3%BCr%C3%BCm-v1.0.1%20(Kararl%C4%B1)-10b981.svg?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=for-the-badge)](LICENSE)
-
-<br/>
-
-## 📥 İNDİRME BAĞLANTISI (DIRECT DOWNLOAD)
-
-Aşağıdaki bağlantıya tıklayarak kurulum dosyasını doğrudan indirebilirsiniz:
-
-| Dosya Adı | İndirme Bağlantısı | Boyut | Sürüm |
-| :--- | :--- | :--- | :--- |
-| **Flexina Skin Changer Setup** | [⬇️ **Flexina_skin_changer_setup.exe İndir**](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.1/Flexina_skin_changer_setup.exe) | **115 MB** | **v1.0.1 (Yeni)** |
-
-<br/>
+[![Version](https://img.shields.io/badge/Release-v1.0.88-gold.svg?style=for-the-badge&logo=electron)](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-black.svg?style=for-the-badge&logo=windows)](https://github.com/sarikurdeleler/flexina-skin-changer-release)
+[![Design](https://img.shields.io/badge/Design-God%20King%20Liquid-darkred.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/sarikurdeleler/flexina-skin-changer)
+[![Vanguard Safe](https://img.shields.io/badge/Anti--Cheat-Vanguard%20100%25%20Compliant-emerald.svg?style=for-the-badge&logo=shield)](https://github.com/sarikurdeleler/flexina-skin-changer)
 
 </div>
 
 ---
 
-## 🌟 Öne Çıkan Özellikler (v1.0.1 Hextech Güncellemesi)
+## 👑 Genel Bakış (Overview)
 
-- **🎨 Modern Hextech Görsel Deneyimi:** Boğucu düz temalar yerine League of Legends Hextech evrenine uygun dinamik siyan mavisi, ametist moru ve altın parıltılı cam arayüz.
-- **👥 Kapsamlı Şampiyon Kataloğu:** Riot Data Dragon ile senkronize, tüm LoL şampiyonlarını rol filtreleriyle listeleme.
-- **🖼️ Tam Şampiyon Detay ve Kostüm Sayfası:** Şampiyona tıklandığında açılan tam ekran 16:9 sinematik kostüm galerisi.
-- **⚡ Akıllı Mod Tepsisi (Staged Tray):** Kostümleri sağ üstteki tepsiye ekleyin ve **"Oyuna Enjekte Et"** butonuyla tek tıkla aktarın.
-- **🔄 Otomatik ve Zorunlu Güncelleme:** Oyun veya mod yamaları çıktığında uygulama otomatik kilitlenir ve tek tıkla yeni sürüme geçer.
+**FLEXINA — GOD KING LIQUID EDITION**, League of Legends oyuncuları için tasarlanmış, **God King Darius** temalı estetik görsel dilini **Riftroam Liquid** düzeniyle harmanlayan, en üst seviye masaüstü kostüm stüdyosu ve canlı maç asistanıdır.
+
+Uygulama, oyun dosyalarının bütünlüğünü bozmadan veya disk üzerinde kalıcı modifikasyon yapmadan, **LTK In-Memory Virtual Overlay** mimarisi sayesinde seçilen tüm kostüm, renk (chroma) ve özel mod paketlerini oyun oturumuna dinamik olarak enjekte eder.
 
 ---
 
-## 🚀 Hızlı Başlangıç Rehberi
+## ✨ Öne Çıkan Özellikler (Core Features)
 
-1. Yukarıdaki bağlantıdan [Flexina_skin_changer_setup.exe](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/download/v1.0.1/Flexina_skin_changer_setup.exe) dosyasını indirin.
-2. Kurulumu tamamlayıp uygulamayı açın.
-3. Sol menüden **"Şampiyonlar"** sekmesine gidin.
-4. Oynamak istediğiniz şampiyonu seçip dilediğiniz kostümün üzerindeki **`⚡ Ekle / Aktif Et`** butonuna basın.
-5. Sağ üst köşede beliren **"Oyuna Enjekte Et"** butonuna tıklayın ve oyunun tadını çıkarın!
+### 1. 🩸 God King Liquid Arayüz Mimarisi
+- **Renk Paleti:** Obsidyen siyahı (`#090A0D`), derin grafit yüzeyler (`#14171D`), kontrollü kan kırmızısı (`#991B1B`, `#DC2626`) ve kraliyet altını (`#EAB308`, `#D4AF37`).
+- **Orijinal Animasyonlu Splash:** Açılış ekranında yerel olarak paketlenmiş kesintisiz God King Darius animasyon döngüsü.
+- **Riftroam Liquid Düzeni:** Sol kenarda sabit, akıcı mikro-etkileşimli navigasyon menüsü; sağ tarafta detaylı skin stüdyosu.
+
+### 2. 🛡️ %100 Vanguard Uyumlu Güvenlik
+- **Zero Disk Mutation:** Oyun dizinine hiçbir yetkisiz dosya yazılmaz, Vanguard bütünlüğü korunur.
+- **Sessiz Güncelleyici:** Arka planda kesintisiz ve tek tıkla güncelleme.
+
+### 3. ⚡ Canlı Şampiyon Seçimi & Deeplol Asistanı
+- **173 Şampiyon Tam Desteği:** Ambessa ve en güncel LoL yaması dâhil tüm liste.
+- **Yasuo + 102 Kostüm:** Tüm varyantlar ve chromalar stüdyoda hazır.
+- **Akıllı Koridor & Flex Pick:** Rakip 5/5 olunca esnek rollerde tek tıkla koridor rakibi seçimi.
 
 ---
 
-<div align="center">
-Herhangi bir soru, öneri veya destek için: <b>Discord: @sarikurdeleler</b>
-</div>
+### 📥 İndir (Download)
+Son kararlı sürümü [GitHub Releases](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/latest) sayfasından indirebilirsiniz.
