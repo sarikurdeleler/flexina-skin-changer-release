@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarikurdeleler/flexina-skin-changer/main/src/renderer/src/assets/skin_changer_avatar.jpg" width="180" height="180" style="border-radius: 24px; border: 2px solid #F59E0B;" alt="Flexina God King Avatar" />
+<img src="https://raw.githubusercontent.com/sarikurdeleler/flexina-skin-changer-release/main/skin_changer_avatar.jpg" width="180" height="180" style="border-radius: 24px; border: 2px solid #F59E0B;" alt="Flexina God King Avatar" />
 
 <br/><br/>
 
-[![Version](https://img.shields.io/badge/Release-v1.0.88-gold.svg?style=for-the-badge&logo=electron)](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases)
+[![Version](https://img.shields.io/badge/Release-v1.0.89-gold.svg?style=for-the-badge&logo=electron)](https://github.com/sarikurdeleler/flexina-skin-changer-release/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-black.svg?style=for-the-badge&logo=windows)](https://github.com/sarikurdeleler/flexina-skin-changer-release)
 [![Design](https://img.shields.io/badge/Design-God%20King%20Liquid-darkred.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/sarikurdeleler/flexina-skin-changer)
 [![Vanguard Safe](https://img.shields.io/badge/Anti--Cheat-Vanguard%20100%25%20Compliant-emerald.svg?style=for-the-badge&logo=shield)](https://github.com/sarikurdeleler/flexina-skin-changer)
@@ -16,7 +16,7 @@
 
 ---
 
-## 👑 Genel Bakış (Overview)
+## 👑 Genel Bakış 
 
 **FLEXINA — GOD KING LIQUID EDITION**, League of Legends oyuncuları için tasarlanmış, **God King Darius** temalı estetik görsel dilini **Riftroam Liquid** düzeniyle harmanlayan, en üst seviye masaüstü kostüm stüdyosu ve canlı maç asistanıdır.
 
