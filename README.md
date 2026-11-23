@@ -1,19 +1,19 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0D,35:450A0A,70:991B1B,100:EAB308&height=240&section=header&text=FLEXINA&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=GOD%20KING%20LIQUID%20EDITION&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0D,35:450A0A,70:991B1B,100:EAB308&height=240&section=header&text=sarikurdeleler&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=GOD%20KING%20LIQUID%20EDITION&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
 
-<img src="https://raw.githubusercontent.com/sarikurdeleler/flexina-skin-changer-release/main/skin_changer_avatar.jpg" width="170" alt="Flexina Logo" />
+<img src="https://raw.githubusercontent.com/sarikurdeleler/sarikurdeleler-skin-changer-release/main/skin_changer_avatar.jpg" width="170" alt="sarikurdeleler Logo" />
 
-# ⚔️ FLEXINA — GOD KING LIQUID EDITION
+# ⚔️ Osmancık — GOD KING LIQUID EDITION
 
 ### 👑 Yeni Nesil League of Legends Kostüm ve Oyun Deneyimi Mimarisi
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2800&pause=900&color=EAB308&center=true&vCenter=true&width=700&lines=G%C3%BCc%C3%BCn%C3%BC+Yans%C4%B1t.;Rift'i+Kendi+Tarz%C4%B1nla+Ya%C5%9Fa.;FLEXINA+GOD+KING+LIQUID+EDITION." alt="Animasyonlu yazı" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2800&pause=900&color=EAB308&center=true&vCenter=true&width=700&lines=G%C3%BCc%C3%BCn%C3%BC+Yans%C4%B1t.;Rift'i+Kendi+Tarz%C4%B1nla+Ya%C5%9Fa.;sarikurdeleler+GOD+KING+LIQUID+EDITION." alt="Animasyonlu yazı" />
 
 <br/>
 
-<a href="https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/latest">
-<img src="https://img.shields.io/badge/⬇️%20FLEXINA'YI%20İNDİR-991B1B?style=for-the-badge&logo=windows&logoColor=white&labelColor=090A0D" />
+<a href="https://github.com/sarikurdeleler/sarikurdeleler-skin-changer-release/releases/latest">
+<img src="https://img.shields.io/badge/⬇️%20sarikurdeleler'YI%20İNDİR-991B1B?style=for-the-badge&logo=windows&logoColor=white&labelColor=090A0D" />
 </a>
 <a href="https://discord.com/users/1365730056529510652">
 <img src="https://img.shields.io/badge/💬%20GELİŞTİRİCİ-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=090A0D" />
@@ -32,15 +32,15 @@
 
 <div align="center">
 
-## 🔥 RIFT'İN YENİ GÜCÜ: FLEXINA
+## 🔥 RIFT'İN YENİ GÜCÜ: sarikurdeleler
 
 **Sıradan bir kostüm yöneticisinden çok daha fazlası.**
 
 </div>
 
-Flexina, League of Legends deneyimini farklı bir seviyeye taşımak için tasarlanmış, **God King Darius** temasından ilham alan bir masaüstü kostüm stüdyosu ve canlı maç yardımcısıdır.
+sarikurdeleler, League of Legends deneyimini farklı bir seviyeye taşımak için tasarlanmış, **God King Darius** temasından ilham alan bir masaüstü kostüm stüdyosu ve canlı maç yardımcısıdır.
 
-Riftroam Liquid tasarım anlayışı, modern arayüzü ve canlı oyun deneyimine odaklanan mimarisiyle Flexina; kostüm, chroma ve özel mod paketlerini tek bir merkezde yönetmeyi hedefler.
+Riftroam Liquid tasarım anlayışı, modern arayüzü ve canlı oyun deneyimine odaklanan mimarisiyle sarikurdeleler; kostüm, chroma ve özel mod paketlerini tek bir merkezde yönetmeyi hedefler.
 
 <div align="center">
 
@@ -126,12 +126,12 @@ Riftroam Liquid tasarım anlayışı, modern arayüzü ve canlı oyun deneyimine
 
 ---
 
-## ⚡ FLEXINA TEKNOLOJİSİ
+## ⚡ sarikurdeleler TEKNOLOJİSİ
 
 <details>
 <summary><b>👑 01 — LTK In-Memory Virtual Overlay</b></summary>
 
-Flexina'nın canlı oyun deneyiminin merkezinde LTK In-Memory Virtual Overlay yaklaşımı bulunur.
+sarikurdeleler'nın canlı oyun deneyiminin merkezinde LTK In-Memory Virtual Overlay yaklaşımı bulunur.
 
 Kostüm, chroma ve özel mod paketlerinin oyun oturumu içerisinde dinamik olarak kullanılmasına odaklanır.
 
@@ -149,7 +149,7 @@ Oyun dosyalarının bütünlüğünü korumaya odaklanan bir yaklaşım benimsen
 <details>
 <summary><b>🔄 03 — Silent Updater</b></summary>
 
-Arka planda çalışan güncelleme sistemi sayesinde Flexina güncellemelerini tek tıklamayla yönetebilirsin.
+Arka planda çalışan güncelleme sistemi sayesinde sarikurdeleler güncellemelerini tek tıklamayla yönetebilirsin.
 
 </details>
 
@@ -162,7 +162,7 @@ Arka planda çalışan güncelleme sistemi sayesinde Flexina güncellemelerini t
 
 ---
 
-## 🖥️ FLEXINA'NIN TASARIM DÜNYASI
+## 🖥️ sarikurdeleler'NIN TASARIM DÜNYASI
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Arka planda çalışan güncelleme sistemi sayesinde Flexina güncellemelerini t
 
 <div align="center">
 
-### ⚔️ FLEXINA — FOUNDER & CREATOR
+### ⚔️ sarikurdeleler — FOUNDER & CREATOR
 
 **Projenin kurucusu ve geliştiricisi**
 
@@ -202,19 +202,19 @@ Arka planda çalışan güncelleme sistemi sayesinde Flexina güncellemelerini t
 
 <div align="center">
 
-### 🚀 FLEXINA'YI KEŞFETMEYE HAZIR MISIN?
+### 🚀 sarikurdeleler'YI KEŞFETMEYE HAZIR MISIN?
 
 En güncel sürümü GitHub Releases üzerinden edinebilirsin.
 
 <br/>
 
-<a href="https://github.com/sarikurdeleler/flexina-skin-changer-release/releases/latest">
+<a href="https://github.com/sarikurdeleler/sarikurdeleler-skin-changer-release/releases/latest">
 <img src="https://img.shields.io/badge/⬇️%20EN%20SON%20SÜRÜMÜ%20İNDİR-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=090A0D" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/sarikurdeleler/flexina-skin-changer-release">
+<a href="https://github.com/sarikurdeleler/sarikurdeleler-skin-changer-release">
 <img src="https://img.shields.io/badge/📂%20GITHUB%20REPOSUNU%20İNCELE-14171D?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -226,12 +226,12 @@ En güncel sürümü GitHub Releases üzerinden edinebilirsin.
 
 ## 👑 RIFT SENİ BEKLİYOR.
 
-**FLEXINA — GOD KING LIQUID EDITION**
+**sarikurdeleler — GOD KING LIQUID EDITION**
 
 *Gücünü göster. Tarzını oluştur. Kendi deneyimini yaşa.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0D,35:450A0A,70:991B1B,100:EAB308&height=150&section=footer&animation=fadeIn" width="100%" />
 
-<sub>⚔️ FLEXINA PROJECT • GOD KING LIQUID EDITION • v1.0.90</sub>
+<sub>⚔️ sarikurdeleler PROJECT • GOD KING LIQUID EDITION • v1.0.90</sub>
 
 </div>
